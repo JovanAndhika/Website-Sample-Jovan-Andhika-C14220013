@@ -1,2 +1,2 @@
-# file-C-Users-jovse-Desktop-template-index.html
+# Contoh website
 Tampilan web
